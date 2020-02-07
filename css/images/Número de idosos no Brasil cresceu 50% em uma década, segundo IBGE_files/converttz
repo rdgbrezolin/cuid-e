@@ -1,0 +1,1 @@
+trrdatetime({"header": {"status": 200, "message": "OK"}, "data": {"09-06-2018 22:00:00": {"ISO8601_datetime": "2018-09-06T19:00:00-03:00", "timezone": "America/Sao_Paulo", "utcoffset": "-0300", "custom_datetime": "19h00", "epoch_datetime": "1536260400"}}});

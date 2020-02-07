@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768px" height="1075px" viewBox="0 0 768 1075" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Tablet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#9062BC" offset="0%"></stop>
+            <stop stop-color="#3D1068" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="544.03752 272.01782 544.03752 -1.42108547e-14 0 -1.42108547e-14 0 272.01782 0 544.03564 544.03752 544.03564"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet">
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="-13" width="768" height="1088.63219"></rect>
+            <g id="Page-1" opacity="0.05" transform="translate(-54.000000, -103.044945)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M380.788191,260.371658 L355.720998,260.371658 L355.720998,283.662102 L380.788191,283.662102 L380.788191,314.510778 L355.720998,314.510778 L355.720998,373.83443 L320.449253,373.83443 L221.924328,229.819107 L221.364981,229.819107 L221.364981,373.83443 L186.793595,373.83443 L186.793595,314.510778 L163.249329,314.510778 L163.249329,283.662102 L186.793595,283.662102 L186.793595,260.371658 L163.249329,260.371658 L163.249329,229.527683 L186.793595,229.527683 L186.793595,170.199329 L221.082958,170.199329 L320.449253,316.311028 L321.149612,316.311028 L321.149612,170.199329 L355.720998,170.199329 L355.720998,229.527683 L380.788191,229.527683 L380.788191,260.371658 Z M272.02111,-0.00188015697 C121.787168,-0.00188015697 0,121.785287 0,272.01923 C0,422.248472 121.787168,544.03564 272.02111,544.03564 C422.250352,544.03564 544.03752,422.248472 544.03752,272.01923 C544.03752,121.785287 422.250352,-0.00188015697 272.02111,-0.00188015697 L272.02111,-0.00188015697 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
